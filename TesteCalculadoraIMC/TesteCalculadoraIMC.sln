@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteCalculadoraIMC", "TesteCalculadoraIMC\TesteCalculadoraIMC.csproj", "{3BD972E1-6855-419B-A7F7-3A9CC39DBC27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMCXunit", "IMCXunit\IMCXunit.csproj", "{CFEEC172-4D44-47F2-B89D-4EDCF7E84978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD972E1-6855-419B-A7F7-3A9CC39DBC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD972E1-6855-419B-A7F7-3A9CC39DBC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD972E1-6855-419B-A7F7-3A9CC39DBC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD972E1-6855-419B-A7F7-3A9CC39DBC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEEC172-4D44-47F2-B89D-4EDCF7E84978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEEC172-4D44-47F2-B89D-4EDCF7E84978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEEC172-4D44-47F2-B89D-4EDCF7E84978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEEC172-4D44-47F2-B89D-4EDCF7E84978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6392538B-B4E4-476D-927A-CFDF7A02DCCC}
+	EndGlobalSection
+EndGlobal

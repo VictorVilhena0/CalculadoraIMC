@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bd972e1-6855-419b-a7f7-3a9cc39dbc27": {
+      "ProjectGuid": "3bd972e1-6855-419b-a7f7-3a9cc39dbc27",
+      "DisplayName": "TesteCalculadoraIMC",
+      "ColorIndex": 0
+    },
+    "cfeec172-4d44-47f2-b89d-4edcf7e84978": {
+      "ProjectGuid": "cfeec172-4d44-47f2-b89d-4edcf7e84978",
+      "DisplayName": "IMCXunit",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
